@@ -21,22 +21,37 @@ If you have questions about our Websites and Services, please contact us by emai
 ### DEFINITIONS
 In this document, we use "you" to refer to researchers and other users of the Websites and OSF. We also use the following defined terms:
 
-**Project.** A "Project" is an individual or collaborative enterprise that also may have embedded within it subproject(s) or "Project components" or "component(s)" of the Project.
-**Preprint.** A “Preprint” is a publicly shared document and associated metadata. Preprints cannot be deleted, but can be withdrawn, leaving behind metadata about the resource. 
-**Registration.** A “Registration” is a frozen (uneditable), timestamped version of a Project and/or its Components. Registrations cannot be deleted, but can be withdrawn, leaving behind basic metadata about the resource.
-**Content.** As used in these Terms of Use, "content" means, but is not limited to, any research, data, text, images, software and software code, data sets, information or other materials.
-**Collection.** A “Collection” is a group of content hosted on OSF. Examples include OSF Preprints, OSF Registries, OSF Meetings, and branded community-organized services utilizing OSF infrastructure.
-**Users.** All Users must accept the COS Terms of Use and Privacy Policy.
-**Administrator.** An administrator on a Project or a component is an individual who has full rights to control all aspects of a Project, Preprint, or Registration. An Administrator may create a Project, components of a Project, or Preprint, create and change contributor permissions, identify the legal terms that govern the ownership of the intellectual property in Content deposited into a Project, a Project component, or Preprint or identify the license restrictions governing the use of the intellectual property incorporated into the Project, Project component, or Preprint, control and modify access and privacy settings for the Project and its components, modify license terms for the use of Content, invite other users to contribute to a Project, component of a project, or Preprint, authorize add-ons, namely, software designed to increase the capability of OSF, remove Projects or Project Components from the Websites and Services, create Registrations (i.e. freeze and uniquely identify) of Projects or Project Components, submit content to a third party for review or moderation, and register DOIs (share persistent metadata with a third party). Administrators must have the authority to bind the individual Administrator's business, organization or institution to the COS's Terms of Use and Privacy Policy.
-**Proxy.** A Proxy is a person to whom the Administrator has granted the authority to manage a Project or Project component on his or her behalf, which may include setting and modifying user access, privacy settings, license terms, and editing and depositing Content. 
-**Contributing User.** A Contributing User may access, deposit, and edit Content to a Project, Project component, or Preprint.
+**Project.** A "Project" is an individual or collaborative enterprise that also may have embedded within it subproject(s) or "Project components" or "component(s)" of the Project.  
+
+**Preprint.** A “Preprint” is a publicly shared document and associated metadata. Preprints cannot be deleted, but can be withdrawn, leaving behind metadata about the resource.  
+
+**Registration.** A “Registration” is a frozen (uneditable), timestamped version of a Project and/or its Components. Registrations cannot be deleted, but can be withdrawn, leaving behind basic metadata about the resource.  
+
+**Content.** As used in these Terms of Use, "content" means, but is not limited to, any research, data, text, images, software and software code, data sets, information or other materials.  
+
+**Collection.** A “Collection” is a group of content hosted on OSF. Examples include OSF Preprints, OSF Registries, OSF Meetings, and branded community-organized services utilizing OSF infrastructure.  
+
+**Users.** All Users must accept the COS Terms of Use and Privacy Policy.  
+
+**Administrator.** An administrator on a Project or a component is an individual who has full rights to control all aspects of a Project, Preprint, or Registration. An Administrator may create a Project, components of a Project, or Preprint, create and change contributor permissions, identify the legal terms that govern the ownership of the intellectual property in Content deposited into a Project, a Project component, or Preprint or identify the license restrictions governing the use of the intellectual property incorporated into the Project, Project component, or Preprint, control and modify access and privacy settings for the Project and its components, modify license terms for the use of Content, invite other users to contribute to a Project, component of a project, or Preprint, authorize add-ons, namely, software designed to increase the capability of OSF, remove Projects or Project Components from the Websites and Services, create Registrations (i.e. freeze and uniquely identify) of Projects or Project Components, submit content to a third party for review or moderation, and register DOIs (share persistent metadata with a third party). Administrators must have the authority to bind the individual Administrator's business, organization or institution to the COS's Terms of Use and Privacy Policy.  
+
+**Proxy.** A Proxy is a person to whom the Administrator has granted the authority to manage a Project or Project component on his or her behalf, which may include setting and modifying user access, privacy settings, license terms, and editing and depositing Content.  
+
+**Contributing User.** A Contributing User may access, deposit, and edit Content to a Project, Project component, or Preprint.  
+
 **Active User.** An Active User may have select interactive use of the Websites and Services, subject to restrictions imposed by the Administrator. 
-**Passive User.** A passive user, including journal editors/reviewers, other scientists, and members of the general public, may use the Websites and Services solely as an information resource without any ability to change or modify any Project content.
-**Collection Admin.** A Collection Admin is an individual who determines content requirements and moderation settings for a Collection and assigns Reviewers.
-**Reviewer.** A reviewer may use the Website and Services to review content submitted to a Collection, provide comment on it, accept or reject its submission to the Collection, and update its metadata as it relates to the Collection.
-**Public API.** An application program interface available to the public to facilitate computer communication with the OSF. Parts or all of the Websites and Services are accessible via various Public APIs, including but not limited to, GitHub, Twitter, Facebook, YouTube, Google Scholar and Google Groups, and LinkedIn.
-**Privacy Settings.** Privacy Settings define whether Project Content may be publicly displayed, displayed with restricted access to a limited group, or private.
-**Trusted Party.** A Trusted Party is an individual or organization to which the Administrator has given the right to view, edit, and/or deposit specific data within a Project or Project component.
+
+**Passive User.** A passive user, including journal editors/reviewers, other scientists, and members of the general public, may use the Websites and Services solely as an information resource without any ability to change or modify any Project content.  
+
+**Collection Admin.** A Collection Admin is an individual who determines content requirements and moderation settings for a Collection and assigns Reviewers.  
+
+**Reviewer.** A reviewer may use the Website and Services to review content submitted to a Collection, provide comment on it, accept or reject its submission to the Collection, and update its metadata as it relates to the Collection.  
+
+**Public API.** An application program interface available to the public to facilitate computer communication with the OSF. Parts or all of the Websites and Services are accessible via various Public APIs, including but not limited to, GitHub, Twitter, Facebook, YouTube, Google Scholar and Google Groups, and LinkedIn.  
+
+**Privacy Settings.** Privacy Settings define whether Project Content may be publicly displayed, displayed with restricted access to a limited group, or private.  
+
+**Trusted Party.** A Trusted Party is an individual or organization to which the Administrator has given the right to view, edit, and/or deposit specific data within a Project or Project component.  
  
 ### YOUR RIGHT TO USE OSF
 The Websites and OSF contain technology that is owned by the COS or third parties and materials, including the OSF, that are owned by the COS or its third party licensors. The COS makes the OSF software available on an open source basis. The COS grants you a limited license to make use of the OSF software on which the OSF is based and the Public API to access and search the Websites and Services. In addition, the COS grants you a license to use any Content marked "public," subject to patent, copyright and trademark law and these Terms of Use, including the limits described in the section governing Limitations on Use below. By "use" we mean sublicense, reproduce, store, transmit, distribute, and publicly display the Content for non-commercial and commercial uses. If a Project contains links to full text articles or other materials, this license does not extend to the linked materials. You may download and modify Content, but only in manner consistent with copyright law and that does not make the data false or misleading. Additional restrictions may apply with respect to specific Content, in which case these restrictions will be identified with the Content. 
@@ -110,12 +125,13 @@ Center for Open Science, COS, Open Science Framework, OSF, OSF Preprints, OSF Re
 Users may not assign or otherwise transfer the rights or obligations hereunder without the prior written consent of the COS, which assignment will not be unreasonably refused. Any purported transfer without the COS's written authorization shall be void. The COS reserves the right to transfer all of its rights and obligations under these Terms of Use and Privacy Policy, including ownership and/or operation of the COS to another non-profit entity continuing the COS's purpose, in the event of a merger, joint venture, dissolution, or other organizational change. In no event shall the COS's merger with or assignment of rights and obligations to a successor entity that carries on the COS's purpose constitute a material breach or cessation of operations under these Terms. 
 
 ### PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
-In accordance with the Digital Millennium Copyright Act (17 USC § 512), any notifications of claimed copyright infringement must be sent to our Designated Agent:
-Lucy Ofiesh
-Center for Open Science
-210 Ridge McIntire Rd.
-Suite 500, Charlottesville, VA, 22903
-or sent via e-mail to
+In accordance with the Digital Millennium Copyright Act (17 USC § 512), any notifications of claimed copyright infringement must be sent to our Designated Agent:  
+
+Lucy Ofiesh  
+Center for Open Science  
+210 Ridge McIntire Rd.  
+Suite 500, Charlottesville, VA, 22903  
+or sent via e-mail to  
 copyright@cos.io
 
 ### GENERAL
