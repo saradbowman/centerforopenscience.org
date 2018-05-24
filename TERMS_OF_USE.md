@@ -67,6 +67,8 @@ Our Privacy Settings for Content are summarized below.
 
 **Embargoed.** Content marked as “Embargoed” may be viewed through the OSF or Public API only by the Administrator(s), a Contributing User of that Project or Component, anyone with a view-only link created by an administrator, or any designated Proxy, until the Embargo date has passed, at which time the content will be made Public automatically.  
 
+**Limited Access.** Content marked as "Limited Access" may be viewed through our Websites and Services by the Project Administrator, a Proxy, a Contributing User, an Active or Passive User, and a Trusted Party, subject to the restrictions imposed by the Administrator.
+
 **Under Review.** Content submitted to services using OSF Reviews may be “Private,” yet available to designated Reviewers of the service for viewing and accepting or rejecting. 
 
 ### 7. YOUR REPRESENTATIONS AND WARRANTIES
